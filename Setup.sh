@@ -15,12 +15,6 @@ flatpak install flathub org.videolan.VLC
 flatpak install flathub com.usebottles.bottles
 flatpak install flathub com.visualstudio.code
 
-# Installing KDE
-
-echo "Starting kde-plasma-desktop Installation (May require password for sudo)"
-sudo apt update
-sudo apt install kde-plasma-desktop
-
 # Finshing things
 
 echo "Everything has finished installing!"
